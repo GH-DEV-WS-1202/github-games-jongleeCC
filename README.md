@@ -4,7 +4,6 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: https://gh-dev-ws-1202.github.io/github-games-jongleeCC/
 
-Test
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
